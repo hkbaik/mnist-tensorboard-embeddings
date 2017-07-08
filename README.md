@@ -6,4 +6,4 @@
 1. python mnist_tensorboard_embeddings.py
 2. cd minimalsample
 3. tensorboard --logdir=./
-4. 브라우저로 http://0.0.0.0:6006/(예:로컬의 경우) 접근 후, embeddings탭을 선택ㄴ
+4. 브라우저로 http://0.0.0.0:6006/(예:로컬의 경우) 접근 후, embeddings탭을 선택
