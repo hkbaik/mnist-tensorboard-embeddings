@@ -1,4 +1,4 @@
-# MNIST 글자인식해서 Tensorboard에 Embeddin Visualzaiton띄우기
+# MNIST 글자인식해서 Tensorboard에 Embedding Visualzaiton띄우기
 
 실용주의 머신러닝 2주차(7/11) 과제입니다. 
 실행방법은 아래와 같습니다.
